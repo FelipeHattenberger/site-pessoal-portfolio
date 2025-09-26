@@ -14,4 +14,4 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 ### Felipe Hattenberger
 
-### Linkedin: [https://www.linkedin.com/in/felipe-max-hattenberger/]
+### Linkedin: https://www.linkedin.com/in/felipe-max-hattenberger/
